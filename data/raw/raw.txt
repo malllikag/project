@@ -1,1 +1,2 @@
-Store all your raw data in this directory.
+#Store all your raw data in this directory.
+git add data/raw/C:\Users\malli\Documents\Education\Grad School Documents\Semester 3\SSCI 575\Final Project\LA_Crimes\CSV Files\LA_six_cats_Crimes.csv
