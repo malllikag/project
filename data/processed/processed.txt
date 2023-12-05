@@ -1,1 +1,4 @@
 Stored all your processed data in this directory.
+git add data/processed/ca_zip_pop.csv data/processed/LA_six_cats_Crimes.csv
+git commit -m "Add processed data files"
+git push origin main
